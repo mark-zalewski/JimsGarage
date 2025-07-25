@@ -55,7 +55,7 @@ all=($master1 $master2 $master3 $worker1 $worker2)
 allnomaster1=($master2 $master3 $worker1 $worker2)
 
 #Loadbalancer IP range
-lbrange=10.0.20.50-10.0.20.80
+lbrange=10.0.20.10-10.0.20.80
 
 #ssh certificate name variable
 certName=id_rsa
