@@ -61,7 +61,7 @@ lbrange=10.0.10.20-10.0.10.80
 certName=id_ed25519
 
 #ssh config file
-config_file=~/.ssh
+config_file=~/.ssh/config
 
 #############################################
 #            DO NOT EDIT BELOW              #
